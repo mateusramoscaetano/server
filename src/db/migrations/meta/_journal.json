@@ -8,6 +8,13 @@
       "when": 1752247172787,
       "tag": "0000_charming_dexter_bennett",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752253054571,
+      "tag": "0001_short_vindicator",
+      "breakpoints": true
     }
   ]
 }
